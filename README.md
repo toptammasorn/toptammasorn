@@ -4,12 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-🔭 My fullname is Tammasorn, you can call me Top. 🌱 I'm currently pursuing my bachelor's degree in robotic engineering. 👯 I study at KMUTT. 🤔 I'm good a coding. 💬 Right now, I am working on a project about building a website. 📫 I plan to pursue a career in developer.
-
-* 🌍  I'm based in Bangkok
-* 🖥️  See my portfolio at [My Portfolio](http://www.google.com)
-* ✉️  You can contact me at [tammasorn.work@gmail.com](mailto:tammasorn.work@gmail.com)
-* 🧠  I'm learning building website
+A robotics student with a strong passion for software development. Through my university coursework, I have developed programming skills, gained hands-on experience, and built a solid foundation in software engineering. I am eager to apply my knowledge to real-world projects and continuously enhance my expertise in the field.
 
 ### Skills
 
